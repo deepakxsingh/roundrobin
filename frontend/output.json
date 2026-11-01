@@ -1,0 +1,7 @@
+{
+"quantum":3,
+"executions":[{"id":1,"start":0,"end":3},{"id":2,"start":3,"end":6},{"id":3,"start":6,"end":9},{"id":1,"start":9,"end":12},{"id":2,"start":12,"end":14},{"id":3,"start":14,"end":17},{"id":1,"start":17,"end":20},{"id":3,"start":20,"end":22},{"id":1,"start":22,"end":23}],
+"statistics":[{"id":1,"burstTime":10,"completionTime":23,"turnaroundTime":23,"waitingTime":13},{"id":2,"burstTime":5,"completionTime":14,"turnaroundTime":14,"waitingTime":9},{"id":3,"burstTime":8,"completionTime":22,"turnaroundTime":22,"waitingTime":14}],
+"averageWT":12.00,
+"averageTAT":19.67
+}
